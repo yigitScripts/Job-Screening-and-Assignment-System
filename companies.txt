@@ -1,0 +1,10 @@
+C1,Leon-James,10
+C2,Mccoy Inc,8
+C3,Conway Group,9
+C4,Stephens Inc,10
+C5,Johnston-Green,11
+C6,Scott-Zimmerman,12
+C7,Drake Fisher and Keith,15
+C8,Anderson-Bonilla,5
+C9,Lee LLC,14
+C10,Parker Bartlett and Pace,6
